@@ -581,6 +581,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MepMail](https://mepmail.dev) `https://api.mepmail.dev/mcp`
   [![MepMail MCP connector](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail)
   🔐 - Send email, manage broadcasts and domains, and read or reply to Correio mailboxes within granted permissions.
+- [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
+  [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
+  🔐 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
